@@ -1,0 +1,17 @@
+<div class="navigation">
+  {% if page.next.url %}
+    <a class="prev" href="{{page.next.url}}">&#x25C0 {{page.next.title}}</a>
+  {% endif %}
+  {% if page.previous.url %}
+    <a class="next" href="{{page.previous.url}}">{{page.previous.title}} &#9654</a>
+  {% endif %}
+</div>
+<!--
+<div class="navigation">
+  {% if page.previous.url %}
+    <a class="prev" href="{{page.previous.url}}">&#x25C0</a>
+  {% endif %}
+  {% if page.next.url %}
+    <a class="next" href="{{page.next.url}}">&#9654</a>
+  {% endif %}
+</div> -->

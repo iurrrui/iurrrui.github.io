@@ -1,0 +1,27 @@
+title: central node
+author: rebecca rui
+# email: rebrui@tuta.io
+url: rebeccarui.crypto
+baseurl: ""
+description: > # description of the site (multiple lines allowed)
+
+permalink: /:slug.html
+favicon: "logo.png"
+# theme: no-style-please # if you are using GitHub Pages, change it to
+# remote_theme: riggraz/no-style-please
+
+theme_config:
+  appearance: "light" # can be "light", "dark" or "auto"
+  back_home_text: "&#x25C0 rebecca rui" #"&#x25B2" rebecca rui" "&#x25C0 rebecca rui"
+  #"&#9666" #"&#9668" # "&#9664"
+  date_format: "%Y-%m-%d" # customize how date is formatted
+  # date_format_weblog: "%Y-%m-%d"
+  date_format_project: "%Y"
+  show_description: false # show blog description in home page
+
+sass:
+  style: :compressed
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag

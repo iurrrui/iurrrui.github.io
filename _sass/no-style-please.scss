@@ -1,0 +1,177 @@
+// -------------- THEME SWITCHER -------------- //
+@mixin dark-appearance {
+  filter: invert(1);
+  img {
+    filter: invert(1);
+
+    &.ioda { filter: invert(0); }
+  }
+}
+
+body[a="dark"] { @include dark-appearance; }
+
+
+@media (prefers-color-scheme: dark) {
+  body[a="auto"] { @include dark-appearance; }
+}
+// -------------------------------------------- //
+
+// bg color is also needed in html in order to
+// block body's background propagation
+// see: https://stackoverflow.com/a/61265706
+
+// .home {
+//   color: red;
+//   float: left;
+// }
+// .prev {
+//   color: blue;
+//   float: right;
+//   margin-left: 1em;
+//   margin-right: 1em;
+// }
+
+.next {
+  text-align: right;
+}
+
+.next, .prev {
+  margin-top: 2rem;
+}
+
+.navigation {
+  font-size: 11px;
+  display: block;
+  width: auto;
+  overflow: hidden;
+}
+
+.navigation a {
+  display: block;
+  width: 50%;
+  float: left;
+}
+
+
+html, body { background: white; }
+
+html { height: 100%; }
+
+body {
+  color: black;
+  font-family: 'Source Code Pro', monospace;
+  // font-family: 'Space Mono', monospace;
+  // font-family: 'Oxygen Mono', monospace;
+  // font-family: 'B612 Mono', monospace;
+  font-weight: 400;
+  // font-weight: 500;
+  // font-weight: 600;
+  font-size: 16px;
+  // font-size: 1em;
+  line-height: 1.5;
+  // line-height: 1.4;
+  margin: 0;
+  min-height: 100%;
+  overflow-wrap: break-word;
+}
+
+.post-meta { text-align: right; }
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 400;
+}
+
+h2, h3, h4, h5, h6 { margin-top: 3rem; }
+
+hr { margin: 2rem 0; }
+
+p { margin: 1rem 0; }
+
+li {
+  margin: 0.4rem 0;
+  list-style: disc;
+  // added
+  margin-left: -20px;
+
+}
+
+*:target {
+  background: blue;
+  color: white;
+  // text-decoration: underline;
+  // text-underline-offset: 0.1em;
+
+}
+
+.w {
+  max-width: 40%;
+  margin: 0 auto;
+  padding: 4rem 2rem;
+}
+
+.lowercase {
+  text-transform: lowercase;
+}
+
+a {
+  text-decoration: none;
+  // color: black;
+}
+
+hr {
+  text-align: center;
+  border: 0;
+
+  &:before { content: '—————' }
+  &:after { content: attr(data-content) '—————' }
+}
+
+table { width: 100%; }
+
+table, th, td {
+  border: thin solid black;
+  border-collapse: collapse;
+  padding: 0.4rem;
+}
+
+code {
+  color: white;
+  background: black;
+}
+
+.credits {
+  font-size: 11px;
+
+}
+
+.footnotes {
+  font-size: 11px;
+}
+
+a.footnote {
+  // background-color: red;
+  display: none;
+}
+
+div.highlighter-rouge code {
+  display: block;
+  overflow-x: auto;
+  white-space: pre-wrap;
+  padding: 1rem;
+}
+
+blockquote {
+  font-style: italic;
+  border: thin solid black;
+  padding: 1rem;
+
+  p {
+      margin: 0;
+  }
+}
+
+img {
+  max-width: 100%;
+  display: block;
+  margin: 0 auto;
+}
