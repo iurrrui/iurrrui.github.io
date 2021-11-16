@@ -4,7 +4,7 @@ title: Manufacturinng Habits
 category: project
 ---
 
-One robot creature, one touchscreen device, and one interface are used to reveal how psychological manipulation works on the user through design.
+One robot creature, one touchscreen device, and one interface are used to reveal how psychological manipulation works on people through design.
 
 <!-- ![](/assets/media/manufacturing_habits.png) -->
 
