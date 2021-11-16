@@ -60,6 +60,7 @@ html { height: 100%; }
 body {
   color: black;
   font-family: 'Source Code Pro', monospace;
+  // font-family: 'Open Sans';
   // font-family: 'Space Mono', monospace;
   // font-family: 'Oxygen Mono', monospace;
   // font-family: 'B612 Mono', monospace;
@@ -104,7 +105,7 @@ li {
 }
 
 .w {
-  max-width: 40%;
+  max-width: 45%;
   margin: 0 auto;
   padding: 4rem 2rem;
 }
@@ -121,9 +122,13 @@ a {
 hr {
   text-align: center;
   border: 0;
+  font-size: 9;
 
   &:before { content: '—————' }
   &:after { content: attr(data-content) '—————' }
+}
+.credits {
+  font-size: 11px;
 }
 
 table { width: 100%; }
@@ -137,11 +142,6 @@ table, th, td {
 code {
   color: white;
   background: black;
-}
-
-.credits {
-  font-size: 11px;
-
 }
 
 .footnotes {

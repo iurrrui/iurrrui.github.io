@@ -10,5 +10,8 @@ A a model of the world’s effective planetary-scale administrative, bureaucrati
 
 ---
 
-- Inspired by the written work of David Graeber.
-- In collaboration with Taya Reshetnik. Part of the exhibition Temporary Assembly of Borderless States, Waag Society, Amsterdam 2016.
+<ul class=credits>
+  <li>Inspired by the written work of David Graeber.</li>
+  <li>In collaboration with Taya Reshetnik.</li>
+  <li>Shown at the exhibition Temporary Assembly of Borderless States, Waag Society, Amsterdam 2016.</li>
+</ul>

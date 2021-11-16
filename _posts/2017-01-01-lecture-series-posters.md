@@ -18,4 +18,6 @@ Posters for a lecture series organized by the INSIDE Master Interior Architectur
 
 ---
 
-- In collaboration with Rudi van Delden and Daan Kars.
+<ul class=credits>
+  <li>In collaboration with Rudi van Delden (1-3) and Daan Kars (4-5).</li>
+</ul>

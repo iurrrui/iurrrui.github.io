@@ -12,4 +12,6 @@ This installation makes the process of mandatory updates into the physical exper
 
 ---
 
-- Inspired by Miranda July.
+<ul class=credits>
+  <li>Inspired by Miranda July.</li>
+</ul>

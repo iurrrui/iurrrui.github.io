@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-11-14T14:57:40+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">central node</title><subtitle></subtitle><author><name>rebecca rui</name></author><entry><title type="html">One Puzzle, Two Ways of Puzzling</title><link href="http://localhost:4000/one-puzzle-two-ways-of-puzzling.html" rel="alternate" type="text/html" title="One Puzzle, Two Ways of Puzzling" /><published>2020-07-11T00:00:00+02:00</published><updated>2020-07-11T00:00:00+02:00</updated><id>http://localhost:4000/one-puzzle-two-ways-of-puzzling</id><content type="html" xml:base="http://localhost:4000/one-puzzle-two-ways-of-puzzling.html">&lt;p&gt;In the form of an experiment, this project investigates how and the degree to which bodily engagement can enhance cognitive performance in a memory-based puzzle. A leading inspiration is one of the central claims within the embodied cognition paradigm, namely that cognitive processing is dependent on physical features of the body so that these are causal or constitutive of the cognitive process itself. Cognitive processing is embodied, extended, embedded, and enacted so that cognition can be understood to exceed beyond the inner workings of the skull.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-11-16T11:02:19+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">central node</title><subtitle></subtitle><author><name>rebecca rui</name></author><entry><title type="html">One Puzzle, Two Ways of Puzzling</title><link href="http://localhost:4000/one-puzzle-two-ways-of-puzzling.html" rel="alternate" type="text/html" title="One Puzzle, Two Ways of Puzzling" /><published>2020-07-11T00:00:00+02:00</published><updated>2020-07-11T00:00:00+02:00</updated><id>http://localhost:4000/one-puzzle-two-ways-of-puzzling</id><content type="html" xml:base="http://localhost:4000/one-puzzle-two-ways-of-puzzling.html">&lt;p&gt;In the form of an experiment, this project investigates how and the degree to which bodily engagement can enhance cognitive performance in a memory-based puzzle. A leading inspiration is one of the central claims within the embodied cognition paradigm, namely that cognitive processing is dependent on physical features of the body so that these are causal or constitutive of the cognitive process itself. Cognitive processing is embodied, extended, embedded, and enacted so that cognition can be understood to exceed beyond the inner workings of the skull.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/media/one_puzzle_two_ways_of_puzzling.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;Hardware and concept development by Rebecca Rui&lt;br /&gt;&lt;/li&gt;
-  &lt;li&gt;Software development by Peng Song&lt;/li&gt;
+&lt;ul class=&quot;credits&quot;&gt;
+  &lt;li&gt;Hardware and concept development by Rebecca Rui.&lt;/li&gt;
+  &lt;li&gt;Software development by Peng Song.&lt;/li&gt;
 &lt;/ul&gt;</content><author><name>rebecca rui</name></author><category term="project" /><summary type="html">In the form of an experiment, this project investigates how and the degree to which bodily engagement can enhance cognitive performance in a memory-based puzzle. A leading inspiration is one of the central claims within the embodied cognition paradigm, namely that cognitive processing is dependent on physical features of the body so that these are causal or constitutive of the cognitive process itself. Cognitive processing is embodied, extended, embedded, and enacted so that cognition can be understood to exceed beyond the inner workings of the skull.</summary></entry><entry><title type="html">Manufacturinng Habits</title><link href="http://localhost:4000/manufacturing-habits.html" rel="alternate" type="text/html" title="Manufacturinng Habits" /><published>2018-06-20T00:00:00+02:00</published><updated>2018-06-20T00:00:00+02:00</updated><id>http://localhost:4000/manufacturing-habits</id><content type="html" xml:base="http://localhost:4000/manufacturing-habits.html">&lt;p&gt;One robot creature, one touchscreen device, and one interface are used to reveal how psychological manipulation works on the user through design.&lt;/p&gt;
 
 &lt;!-- ![](/assets/media/manufacturing_habits.png) --&gt;
@@ -16,7 +16,7 @@
 
 &lt;hr /&gt;
 
-&lt;ul&gt;
+&lt;ul class=&quot;credits&quot;&gt;
   &lt;li&gt;Shown at the graduation show of The Royal Academy of Art, The Hague, The Netherlands, 2018.&lt;/li&gt;
   &lt;li&gt;Thanks to Thomas Buxo and Agata Jaworska for supporting concept development, Sander de Jong for programming assistance, and John Berthelsen for technical advice.&lt;/li&gt;
 &lt;/ul&gt;</content><author><name>rebecca rui</name></author><category term="project" /><summary type="html">One robot creature, one touchscreen device, and one interface are used to reveal how psychological manipulation works on the user through design.</summary></entry><entry><title type="html">Our Frames</title><link href="http://localhost:4000/our-frames.html" rel="alternate" type="text/html" title="Our Frames" /><published>2017-02-18T00:00:00+01:00</published><updated>2017-02-18T00:00:00+01:00</updated><id>http://localhost:4000/our-frames</id><content type="html" xml:base="http://localhost:4000/our-frames.html">&lt;p&gt;An exploration of frames, fragmentation, and our ability to change context with the ease of a finger gesture.&lt;/p&gt;
@@ -29,7 +29,7 @@
 
 &lt;hr /&gt;
 
-&lt;ul&gt;
+&lt;ul class=&quot;credits&quot;&gt;
   &lt;li&gt;In collaboration with Theresa Scherrer and Toni Brell.&lt;/li&gt;
   &lt;li&gt;Starring Jonathan Hielkema.&lt;/li&gt;
 &lt;/ul&gt;</content><author><name>rebecca rui</name></author><category term="project" /><summary type="html">Promotional video for Demet Tapijt, located on Boekhorststraat in The Hague.</summary></entry><entry><title type="html">Bureaucracy Complex</title><link href="http://localhost:4000/bureaucracy-complex.html" rel="alternate" type="text/html" title="Bureaucracy Complex" /><published>2017-01-30T00:00:00+01:00</published><updated>2017-01-30T00:00:00+01:00</updated><id>http://localhost:4000/bureaucracy-complex</id><content type="html" xml:base="http://localhost:4000/bureaucracy-complex.html">&lt;p&gt;A a model of the world’s effective planetary-scale administrative, bureaucratic system currently in place.&lt;/p&gt;
@@ -39,9 +39,10 @@
 
 &lt;hr /&gt;
 
-&lt;ul&gt;
+&lt;ul class=&quot;credits&quot;&gt;
   &lt;li&gt;Inspired by the written work of David Graeber.&lt;/li&gt;
-  &lt;li&gt;In collaboration with Taya Reshetnik. Part of the exhibition Temporary Assembly of Borderless States, Waag Society, Amsterdam 2016.&lt;/li&gt;
+  &lt;li&gt;In collaboration with Taya Reshetnik.&lt;/li&gt;
+  &lt;li&gt;Shown at the exhibition Temporary Assembly of Borderless States, Waag Society, Amsterdam 2016.&lt;/li&gt;
 &lt;/ul&gt;</content><author><name>rebecca rui</name></author><category term="project" /><summary type="html">A a model of the world’s effective planetary-scale administrative, bureaucratic system currently in place.</summary></entry><entry><title type="html">Lecture Series Posters</title><link href="http://localhost:4000/lecture-series-posters.html" rel="alternate" type="text/html" title="Lecture Series Posters" /><published>2017-01-01T00:00:00+01:00</published><updated>2017-01-01T00:00:00+01:00</updated><id>http://localhost:4000/lecture-series-posters</id><content type="html" xml:base="http://localhost:4000/lecture-series-posters.html">&lt;p&gt;Posters for a lecture series organized by the INSIDE Master Interior Architecture program at The Royal Academy of Art, The Hague.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/media/lecture_series_01_thumbnail.gif&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
@@ -56,8 +57,8 @@
 
 &lt;hr /&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;In collaboration with Rudi van Delden and Daan Kars.&lt;/li&gt;
+&lt;ul class=&quot;credits&quot;&gt;
+  &lt;li&gt;In collaboration with Rudi van Delden (1-3) and Daan Kars (4-5).&lt;/li&gt;
 &lt;/ul&gt;</content><author><name>rebecca rui</name></author><category term="project" /><summary type="html">Posters for a lecture series organized by the INSIDE Master Interior Architecture program at The Royal Academy of Art, The Hague.</summary></entry><entry><title type="html">Terms and Conditions</title><link href="http://localhost:4000/terms-and-conditions.html" rel="alternate" type="text/html" title="Terms and Conditions" /><published>2016-10-30T00:00:00+02:00</published><updated>2016-10-30T00:00:00+02:00</updated><id>http://localhost:4000/terms-and-conditions</id><content type="html" xml:base="http://localhost:4000/terms-and-conditions.html">&lt;p&gt;This installation makes the process of mandatory updates into the physical experience of walking down a hallway. We often encounter terms and conditions when our software or operating system needs to be updated, and if we do not, it will cease to function. Asking for our consent is to deceive us with the option of choice.&lt;/p&gt;
 
 &lt;div style=&quot;padding:56.25% 0 0 0;position:relative;&quot;&gt;&lt;iframe src=&quot;https://player.vimeo.com/video/189497755?h=668f7c7e07&quot; style=&quot;position:absolute;top:0;left:0;width:100%;height:100%;&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; fullscreen; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
@@ -67,7 +68,7 @@
 
 &lt;hr /&gt;
 
-&lt;ul&gt;
+&lt;ul class=&quot;credits&quot;&gt;
   &lt;li&gt;Inspired by Miranda July.&lt;/li&gt;
 &lt;/ul&gt;</content><author><name>rebecca rui</name></author><category term="project" /><summary type="html">This installation makes the process of mandatory updates into the physical experience of walking down a hallway. We often encounter terms and conditions when our software or operating system needs to be updated, and if we do not, it will cease to function. Asking for our consent is to deceive us with the option of choice.</summary></entry><entry><title type="html">OS Archive App</title><link href="http://localhost:4000/os-archive-app.html" rel="alternate" type="text/html" title="OS Archive App" /><published>2016-10-27T00:00:00+02:00</published><updated>2016-10-27T00:00:00+02:00</updated><id>http://localhost:4000/os-archive-app</id><content type="html" xml:base="http://localhost:4000/os-archive-app.html">&lt;p&gt;A prototype of an Android app for archiving personal OS histories.&lt;/p&gt;
 

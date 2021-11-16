@@ -10,5 +10,7 @@ In the form of an experiment, this project investigates how and the degree to wh
 
 ---
 
-- Hardware and concept development by Rebecca Rui<br>
-- Software development by Peng Song
+<ul class=credits>
+  <li>Hardware and concept development by Rebecca Rui.</li>
+  <li>Software development by Peng Song.</li>
+</ul>
