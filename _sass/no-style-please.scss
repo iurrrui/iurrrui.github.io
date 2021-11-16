@@ -127,8 +127,12 @@ hr {
   &:before { content: '—————' }
   &:after { content: attr(data-content) '—————' }
 }
+
 .credits {
   font-size: 11px;
+  // max-width: 24%;
+  padding-right: 50%;
+
 }
 
 table { width: 100%; }
