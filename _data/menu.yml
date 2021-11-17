@@ -10,10 +10,9 @@ entries:
       #   url: timelines
       - title: list of...
         url: list_of
+      - title: how
+        url: how
       - title: rebrui(at)tuta(dot)io
-        # url: mailto:rebrui@tuta.io
-      - title: credits
-        url: credits
   - title: online presence
     entries:
       # there are categories here: digital garden, essays, tutorials
