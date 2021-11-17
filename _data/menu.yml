@@ -4,8 +4,8 @@
 entries:
   - title: information
     entries:
-      - title: introduction
-        url: introduction
+      - title: who
+        url: who
       # - title: timelines
       #   url: timelines
       - title: list of...
