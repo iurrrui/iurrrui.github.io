@@ -2,10 +2,10 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: info
+  - title: information
     entries:
-      - title: intro
-        url: intro
+      - title: introduction
+        url: introduction
       # - title: timelines
       #   url: timelines
       - title: list of...

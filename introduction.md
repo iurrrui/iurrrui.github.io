@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Intro
+title: Introduction
 ---
 
 Researcher, coder, writer, and multimedia designer based in The Netherlands.
