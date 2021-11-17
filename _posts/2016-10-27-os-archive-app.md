@@ -4,7 +4,7 @@ title: OS Archive App
 category: project
 ---
 
-A prototype of an Android app for archiving ones personal OS history.
+A prototype of an Android app for archiving our personal OS histories.
 
 ![](/assets/media/os_archive_app.png)
 
