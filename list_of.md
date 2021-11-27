@@ -27,7 +27,6 @@ title: List of...
   - Embodied cognition
   - Constructivist theories of learning
   - Gilbert Simondon's philosophy of technology
-  - Ted Nelson's fantics: 
 
 ### Languages
 - Comfortable with:
