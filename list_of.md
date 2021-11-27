@@ -6,13 +6,14 @@ title: List of...
 ### Areas of interest
 - Human-computer interaction
 - Media philosophy
-- Information management
+- Content management systems
 - Hypermedia and education
+- Workflow design
 - Text analysis (using computational methods)
 - Diagrams and cognition
 - Digital literacy
 - Ethical implications of design of technology
-- Art and visual culture
+- Visual culture
 
 <!-- ### Favorite formats and mediums
 - Digital interface
@@ -25,7 +26,8 @@ title: List of...
 ### Intriguing theoretical frameworks
   - Embodied cognition
   - Constructivist theories of learning
-  - Pragmatist philosophy
+  - Gilbert Simondon's philosophy of technology
+  - Ted Nelson's fantics: 
 
 ### Languages
 - Comfortable with:
@@ -33,6 +35,7 @@ title: List of...
     - Libraries:
       - React
       - jQuery
+  - HTML + CSS
   - BASH shell
   - SQL
   - XSLT
@@ -40,7 +43,6 @@ title: List of...
 - Familiar with:
   - Python
   - Java
-
 
 - Dabbled with:
   - C++

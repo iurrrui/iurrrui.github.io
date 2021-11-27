@@ -33,6 +33,12 @@ body[a="dark"] { @include dark-appearance; }
 
 .next {
   text-align: right;
+  float: right;
+}
+
+.prev {
+  text-align: left;
+  float: left;
 }
 
 .next, .prev {
@@ -42,14 +48,12 @@ body[a="dark"] { @include dark-appearance; }
 .navigation {
   font-size: 11px;
   display: block;
-  width: auto;
+  width: 100%;
   overflow: hidden;
 }
 
 .navigation a {
-  display: block;
-  width: 50%;
-  float: left;
+  width: auto;
 }
 
 
