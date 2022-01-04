@@ -5,15 +5,15 @@ title: List of...
 
 ### Areas of interest
 - Human-computer interaction
-- Media philosophy
 - Content management systems
-- Hypermedia and education
+- Content creation
+- Hypertext systems
 - Workflow design
-- Text analysis (using computational methods)
+- Computational  methods for text analysis
 - Diagrams and cognition
 - Digital literacy
 - Ethical implications of design of technology
-- Visual culture
+- Media philosophy
 
 <!-- ### Favorite formats and mediums
 - Digital interface
@@ -37,7 +37,7 @@ title: List of...
   - HTML + CSS
   - BASH shell
   - SQL
-  - XSLT
+  - XML and XSLT
 
 - Familiar with:
   - Python
