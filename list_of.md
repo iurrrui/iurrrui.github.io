@@ -29,20 +29,22 @@ title: List of...
   - Gilbert Simondon's philosophy of technology
 
 ### Languages
-- Comfortable with:
-  - Javascript
-    - Libraries:
-      - React
-      - jQuery
-  - HTML + CSS
-  - BASH shell
-  - SQL
-  - XML and XSLT
 
-- Familiar with:
-  - Python
-  - Java
+Comfortable with:
+- Javascript
+  - Libraries:
+    - React
+    - jQuery
+    - Framer
+- HTML + CSS
+- BASH shell + Git
+- SQL
+- XML + XSLT
 
-- Dabbled with:
-  - C++
-  - Pure Data
+Familiar with:
+- Python
+- Java
+
+Dabbled with:
+- C++
+- Pure Data
