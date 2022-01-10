@@ -4,7 +4,7 @@ title: Architext
 category: project
 ---
 
-Architext is a prototype of a text editor that generates a multi-relational map and a timeline according to the text input. It allows people to construct non-sequential text structures by applying a syntax based on Markdown. It was created for an experiment that involved testing to what extent visual renditions of content can facilitate text comprehension.
+Architext is a prototype of a text editor that generates a multi-relational map and a timeline according to the text input. It allows people to construct non-sequential text structures by applying a syntax based on Markdown. It was created for an experiment that involved testing to what extent constructing different visual renditions of content can facilitate text comprehension.
 
 <!-- A multi-relational map is generally defined as a diagrammatical representation of knowledge with a node-link structure that communicates and specifies the relationships among concepts in a given knowledge domain. The most extensive body of research on multi-relational maps has been conducted by researchers seeking to facilitate text comprehension. It has been consistently shown that multi-relational maps are more effective than merely reading the textual rendition of content, such as a summary or a list of main points. Architext thus aims to facilitate text comprehension and knowledge management by enabling people to construct non-sequential text structures that result in different visual outputs of the same content. -->
 
