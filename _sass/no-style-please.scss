@@ -42,7 +42,7 @@ body[a="dark"] { @include dark-appearance; }
 }
 
 .next, .prev {
-  margin-top: 1rem;
+  margin-top: 4rem;
 }
 
 .navigation {
@@ -137,6 +137,7 @@ hr {
   font-size: 11px;
   // max-width: 24%;
   padding-right: 50%;
+  margin: 0;
 
 }
 
