@@ -71,7 +71,8 @@ body {
   font-weight: 400;
   // font-weight: 500;
   // font-weight: 600;
-  font-size: 16px;
+  font-size: calc(0.7em + 0.5vw);
+  // font-size: 16px;
   // font-size: 1em;
   line-height: 1.5;
   // line-height: 1.4;
@@ -90,7 +91,12 @@ h2, h3, h4, h5, h6 { margin-top: 3rem; }
 
 hr { margin: 1rem 0; }
 
-p { margin: 1rem 0; }
+p {
+  margin: 1rem 0;
+  // font-family: 'Source Sans Pro', sans-serif;
+  // font-size: 20px;
+  // font-family: "Rubik", sans-serif;
+}
 
 li {
   margin: 0.4rem 0;
@@ -109,8 +115,10 @@ li {
 }
 
 .w {
-  width: 45%;
-  max-width: 630px;
+  width: 80%;
+  max-width: 1000px;
+  // width: 45%;
+  // max-width: 630px;
   margin: 0 auto;
   padding: 4rem 2rem;
 }
