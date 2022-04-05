@@ -50,6 +50,7 @@ body[a="dark"] { @include dark-appearance; }
   display: block;
   width: 100%;
   overflow: hidden;
+  background-color: white;
 }
 
 .navigation a {
@@ -122,6 +123,7 @@ li {
   // max-width: 630px;
   margin: 0 auto;
   padding: 4rem 2rem;
+  background-color: red;
 }
 
 .lowercase {
