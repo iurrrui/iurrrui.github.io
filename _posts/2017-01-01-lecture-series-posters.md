@@ -10,7 +10,7 @@ Posters for a lecture series organized by the INSIDE Master Interior Architectur
 
 ![](/assets/media/lecture_series_02b.png)
 
-![](/assets/media/lecture_series_03a.png)
+![](/assets/media/lecture_series_03b.png)
 
 ![](/assets/media/lecture_series_04.webp)
 
