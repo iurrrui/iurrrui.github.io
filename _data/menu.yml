@@ -10,25 +10,17 @@ entries:
       #   url: timelines
       # - title: list of...
       #   url: list_of
-      - title: rebrui(at)tuta(dot)io
+      - title: rebrui at tuta dot io
       - title: credits
         url: credits
-  - title: online presence
+  - title: online presence elsewhere
     entries:
-      # there are categories here: digital garden, essays, tutorials
-      # - title: digital brain matter
-        # url: https://84003.github.io/vault
-      - title: vimeo
-        url: https://vimeo.com/rebeccarui
-      # - title: github
-      #   url: https://github.com/84003
-      # - title: linkedin&#8599;
       - title: linkedin
         url: https://www.linkedin.com/in/r-rui/
   - title: projects
     url: project-archive
     post_list:
-      limit: 5
+      limit: 7
       category: project
       # show_more: true
       # show_more_text: ...
@@ -41,10 +33,24 @@ entries:
       # show_more: true
       # show_more_text: ...
       # show_more_url: weblog-archive.html
-  # - title: writings
-  #   entries:
-  #     - title: title of essay
-  #       url: https://github.com/84003
+  - title: writings
+    entries:
+        - title: for <a href='https://xrera.eu/author/rrui/'>extended reality for education and research in academia (xr era)</a>
+        # - title: for <a href='https://xrera.eu/author/rrui/'>centre for innovation</a>
+
+
+
+  #     - title: "The Role of Wearable Haptic Devices in XR | Recap Meetup #16 "
+  #       url: https://xrera.eu/the-role-of-wearable-haptic-devices-in-xr-meetup-16-recap/
+  #     - title: "Virtual and Augmented Reality Passenger Experiences | Recap Meetup #15"
+  #       url: https://xrera.eu/virtual-and-augmented-reality-passenger-experiences-recap-meetup-15/
+  #     - title: "The Extended Reality Initiative at the University of Michigan | Recap Meetup #13"
+  #       url: https://xrera.eu/the-extended-reality-initiative-at-the-university-of-michigan-recap-meetup-13/
+  #     - title: "Teaching Challenging Concepts in Molecular and Cellular Biotechnology Using VR | Recap Meetup #11"
+  #       url: https://xrera.eu/teaching-challenging-concepts-in-molecular-and-cellular-biotechnology-using-vr-recap-meetup-11/
+  #
+  #
+
 
 
 
