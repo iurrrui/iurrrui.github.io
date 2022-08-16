@@ -6,15 +6,15 @@ category: project
 
 Posters for a lecture series organized by the INSIDE Master Interior Architecture program at The Royal Academy of Art, The Hague.
 
-![](/assets/media/lecture_series_01_thumbnail.gif)
+<div class="text-above-media-below"><img src="/assets/media/lecture_series_01_thumbnail.gif"></div>
 
-![](/assets/media/lecture_series_02b.png)
+<div class="media-above-media-below"><img src="/assets/media/lecture_series_02b.png"></div>
 
-![](/assets/media/lecture_series_03b.png)
+<div class="media-above-media-below"><img src="/assets/media/lecture_series_03b.png"></div>
 
-![](/assets/media/lecture_series_04.webp)
+<div class="media-above-media-below"><img src="/assets/media/lecture_series_04.png"></div>
 
-![](/assets/media/lecture_series_05.webp)
+<div class="media-above-footnotes-below"><img src="/assets/media/lecture_series_05.png"></div>
 
 ---
 

@@ -4,23 +4,23 @@
 entries:
   - title: information
     entries:
-      - title: introduction
-        url: introduction
+      - title: about me
+        url: about-me
       # - title: timelines
       #   url: timelines
       # - title: list of...
       #   url: list_of
-      - title: rebrui at tuta dot io
-      - title: credits
-        url: credits
-  - title: online presence elsewhere
+      # - title: rebrui at tuta dot io
+      - title: about this website
+        url: about-this-website
+  - title: elsewhere
     entries:
       - title: linkedin
         url: https://www.linkedin.com/in/r-rui/
   - title: projects
     url: project-archive
     post_list:
-      limit: 7
+      limit: 5
       category: project
       # show_more: true
       # show_more_text: ...
@@ -35,7 +35,7 @@ entries:
       # show_more_url: weblog-archive.html
   - title: writings
     entries:
-        - title: for <a href='https://xrera.eu/author/rrui/'>extended reality for education and research in academia (xr era)</a>
+        - title: for <a href='https://xrera.eu/author/rrui/'>xr era (extended reality for education and research in academia)</a>
         # - title: for <a href='https://xrera.eu/author/rrui/'>centre for innovation</a>
 
 
