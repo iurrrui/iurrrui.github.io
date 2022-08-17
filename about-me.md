@@ -3,7 +3,7 @@ layout: page
 title: About Me
 ---
 
-Hi, I'm a digital designer based in Norway and The Netherlands. I have a strong affinity for research-based projects that involve churning topics into intelligible content, which can take many forms. Writing, designing, and coding are often a part of that process. Writing is an activity through which I think, and designing is how ideas take shape. I see coding not only as a means for creative output but as a form of practical engagement through which theoretical understanding can emerge.
+Hi, I'm a multimedia designer based in Norway and The Netherlands. I have a strong affinity for research-based projects that involve churning topics into intelligible content, which can take many forms. Writing, designing, and coding are often a part of that process. Writing is an activity through which I think, and designing is how ideas take shape. I see coding not only as a means for creative output but as a form of practical engagement through which theoretical understanding can emerge.
 
 Presently, I work as a content developer at [XR ERA](https://xrera.eu/) — an initiative that brings people from education, research, and industry together to share XR knowledge and foster community development.
 
