@@ -15,6 +15,6 @@ Conducted in the context of an exhibition, the experiment involved each particip
 ---
 
 <ul class=credits>
-  <li>Hardware and concept development by Rebecca Rui.</li>
-  <li>Software development by Peng Song.</li>
+  <li>Concept development, hardware design, and production by Rebecca Rui.</li>
+  <li>Coded by Peng Song.</li>
 </ul>

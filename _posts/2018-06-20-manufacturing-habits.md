@@ -13,5 +13,6 @@ One robot creature, one touchscreen device, and one interface are used to reveal
 <ul class=credits>
   <li>Developed in the context of the Graphic Design bachelor's program at The Royal Academy of Art, The Hague (KABK).</li>
   <li>Shown at the graduation show of The Royal Academy of Art, The Hague, The Netherlands, 2018.</li>
+  <li>Shown at Ya! Present at Dutch Design Week, Eindhoven, The Netherlands, 2018.
   <li>Thanks to Thomas Buxo and Agata Jaworska for supporting concept development, Sander de Jong for programming assistance, and John Berthelsen for technical advice.</li>
 </ul>
