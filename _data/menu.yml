@@ -22,7 +22,7 @@ entries:
   - title: projects
     url: project-archive
     post_list:
-      limit: 5
+      # limit: 5
       category: project
       # show_more: true
       # show_more_text: ...

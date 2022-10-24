@@ -10,11 +10,10 @@ A central claim within the embodied cognition framework instigated the investiga
 
 Conducted in the context of an exhibition, the experiment involved each participant solving a puzzle on two different devices. The video below demonstrates a participant scoring three points on one device and six points on the other.
 
-<div class="text-above-footnotes-below"><div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/738705138?h=16def1f65d&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script></div>
+<div class="text-above-footnotes-below"><div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/738705138?h=16def1f65d&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script></div>
 
 ---
 
 <ul class=credits>
-  <li>Concept development, hardware design, and production by Rebecca Rui.</li>
-  <li>Coded by Peng Song.</li>
+  <li>In collaboration with Peng Song.</li>
 </ul>
