@@ -4,9 +4,9 @@ title: "Nexae: A Digital Document System"
 category: project
 ---
 
-Documents can be seen as containers of content items (representing ideas, beliefs, facts, and so on). By creating different types of connections among content items, an interconnective structure can be formed. This research project explores new approaches to representational concepts for mapping and accessing the interconnective structure of documents to enable new ways of traversing documents through interaction.
+Nexae is a digital document system developed by taking new approaches to representational concepts for mapping and accessing the interconnective structure of documents to enable new ways of traversing documents through interaction.
 
-Based on the conception of documents as modular, the resulting prototype comprises three bidirectional link types developed for mapping connections according to type: taglink, seqlink, and transclusion. The prototype uses sample content developed throughout the process, serving as an example of how these three link types can be applied to realize the interconnective structure of documents.
+Documents can be seen as containers of content items (representing ideas, beliefs, facts, and so on). By creating different types of connections among content items, an interconnective structure can be formed. Based on the conception of documents as modular, Nexae comprises three bidirectional link types developed for mapping connections according to type: taglink, seqlink, and transclusion. The Nexae prototype uses sample content developed throughout the process, serving as an example of how these three link types can be applied to realize the interconnective structure of documents.
 
 Two view modes have been developed to engage with the complexity of information, enabling zooming in and out to gain different perspectives on documents at different levels of detail. And tags can be attached to links and documents, enabling a grouping mechanism and the capability to filter to view a subset of the document collection based on any taxonomy. The legend seen in the image below explains the link types, direction, and endpoint.
 
