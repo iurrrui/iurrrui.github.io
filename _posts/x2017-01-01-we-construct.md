@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lecture Series Posters
+title: We Construct
 category: project
 ---
 
