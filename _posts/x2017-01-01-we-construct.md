@@ -4,22 +4,22 @@ title: We Construct
 category: project
 ---
 
-
-Interactive Installation
-
-with Rebecca Rui
-
 An interactive installation, inviting people to playfully (re)write a social contract with each other.
 
-<div class="text-above-media-below"><img src="/assets/media/title"></div>
+and watch it evolve into the space into cacophony of voices
 
-<div class="media-above-media-below"><img src="/assets/media/title"></div>
 
-<div class="media-above-media-below"><img src="/assets/media/ltitle"></div>
+<div class="text-above-media-below"><img src="/assets/media/we_construct_1.jpg"></div>
 
-<div class="media-above-media-below"><img src="/assets/media/title"></div>
+<div class="media-above-media-below"><img src="/assets/media/we_construct_2.jpg"></div>
 
-<div class="media-above-footnotes-below"><img src="/assets/media/title"></div>
+<div class="media-above-media-below"><img src="/assets/media/we_construct_3.jpg"></div>
+
+<div class="media-above-media-below"><img src="/assets/media/we_construct_4.jpg"></div>
+
+<div class="media-above-footnotes-below"><img src="/assets/media/we_construct_5.jpg"></div>
+
+<div class="media-above-footnotes-below"><img src="/assets/media/we_construct_6.jpg"></div>
 
 ---
 

@@ -7,7 +7,7 @@ Hi, I'm a creative technologist based in Norway and The Netherlands. My affinity
 
 <!-- Writing is an activity through which I think, and designing is how ideas take shape. I see coding not only as a means for creative output but as a form of practical engagement through which theoretical understanding can emerge. -->
 
-My experience ranges from client-based work to projects for exhibition contexts and research purposes. I'm apt to be involved in concept development through to its implementation.
+My experience ranges from client-based work to projects for research purposes and exhibitions. I’m apt to be involved in concept development through to its implementation.
 
 In recent years, my research has mainly revolved around the relationship between cognition and media technology. I've developed several prototypes exploring new approaches to how we organize, visualize, and interact with information.
 
