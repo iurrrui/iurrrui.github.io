@@ -11,7 +11,7 @@ My experience ranges from client-based work to projects for research purposes an
 
 In recent years, my research has mainly revolved around the relationship between cognition and media technology. I've developed several prototypes exploring new approaches to how we organize, visualize, and interact with information.
 
-Presently, I work as a content developer at [XR ERA](https://xrera.eu/) — an initiative that brings people from education, research, and industry together to share XR knowledge and foster community development.
+<!-- Presently, I work as a content developer at [XR ERA](https://xrera.eu/) — an initiative that brings people from education, research, and industry together to share XR knowledge and foster community development. -->
 
 Reach me at rebrui at tuta dot io. I'm open to collaborations!
 
