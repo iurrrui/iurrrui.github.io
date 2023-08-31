@@ -1,21 +1,3 @@
-// -------------- THEME SWITCHER -------------- //
-@mixin dark-appearance {
-  filter: invert(1);
-  img {
-    filter: invert(1);
-
-    &.ioda { filter: invert(0); }
-  }
-}
-
-body[a="dark"] { @include dark-appearance; }
-
-
-@media (prefers-color-scheme: dark) {
-  body[a="auto"] { @include dark-appearance; }
-}
-// -------------------------------------------- //
-
 html, body { background: white; }
 
 html { height: 100%; }
@@ -24,8 +6,6 @@ body {
   color: black;
   font-family: 'Source Code Pro', monospace;
   font-weight: 400;
-  // font-weight: 500;
-  // font-weight: 600;
   font-size: calc(0.7em + 0.5vw);
   line-height: 1.7;
   margin: 0;
@@ -106,7 +86,6 @@ li {
 
 a {
   text-decoration: none;
-  // color: black;
 }
 
 table { width: 100%; }
@@ -164,7 +143,6 @@ hr {
 }
 
 a.footnote {
-  // background-color: red;
   display: none;
 }
 
