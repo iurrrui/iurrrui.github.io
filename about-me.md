@@ -11,7 +11,7 @@ My experience ranges from client-based work to projects for research purposes an
 
 In recent years, my research has mainly revolved around the relationship between cognition and media technology. I've developed several prototypes exploring new approaches to how we organize, visualize, and interact with information.
 
-Presently, I work as a design technologist / communications lead at [bioregion institute](https://bioregion.institute/) — a design-driven interdisciplinary applied research team developing biodegradable materials and products.
+Presently, I work as a design technologist / communications lead at [Bioregion Institute](https://bioregion.institute/) — a design-driven interdisciplinary applied research team developing biodegradable materials and products.
 
 Reach me at rebrui at tuta dot io.
 
