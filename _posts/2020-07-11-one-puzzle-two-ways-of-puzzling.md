@@ -16,4 +16,5 @@ Conducted in the context of an exhibition, the experiment involved each particip
 
 <ul class=credits>
   <li>In collaboration with Peng Song.</li>
+  <li>Shown at the exhibition <i>Science to Experience</i> at Snellius Gebouw, Leiden, The Netherlands 2020. Hosted by V2_ Lab for the Unstable Media.</li>
 </ul>
