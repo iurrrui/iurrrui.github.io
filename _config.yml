@@ -1,9 +1,8 @@
 title: rebecca rui
 author: rebecca rui
-# email: rebrui@tuta.io
 url: rebeccarui.online
 baseurl: ""
-description: "Design technologist based in Norway and The Netherlands."
+description: "Design technologist based in Norway."
 
 permalink: /:slug.html
 favicon: "logo.png"
