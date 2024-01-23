@@ -19,10 +19,14 @@ entries:
         url: https://www.linkedin.com/in/r-rui/
       - title: github
         url: https://www.github.com/iurrrui
+  - title: playground
+    url: playground
+    entries:
+      - title: where i play with ideas in <a href='https://www.framer.com/'>framer</a> using <a href='https://legacy.reactjs.org/'>react</a> and <a href='https://d3js.org/'>d3</a>
   - title: projects
     url: project-archive
     post_list:
-      # limit: 5
+      limit: 5
       category: project
       # show_more: true
       # show_more_text: ...
@@ -36,14 +40,13 @@ entries:
       # show_more_text: ...
       # show_more_url: weblog-archive.html
   - title: writings
+    url: writings
     entries:
         - title: <a href='https://xrera.eu/the-legal-and-ethical-obligations-of-implementing-xr-in-education/'>the legal and ethical obligations of implementing xr in education</a> (xr era)
         - title: <a href='https://www.leidenlearninginnovation.org/stories/incorporating-playful-learning-into-an-anthropology-course/'>incorporating playful learning into an anthropology course</a> (leiden learning and innovation centre)
         - title: <a href='https://www.leidenlearninginnovation.org/stories/what-is-failure-if-not-the-opposite-of-success/'>what is failure if not the opposite of success?</a> (leiden learning and innovation centre)
         - title: <a href='https://xrera.eu/the-role-of-wearable-haptic-devices-in-xr-meetup-16-recap/'>the role of wearable haptic devices in xr</a> (xr era)
         - title: <a href='https://xrera.eu/virtual-and-augmented-reality-passenger-experiences-recap-meetup-15/'>virtual and augmented reality passenger experiences</a> (xr era)
-        - title: <a href='https://xrera.eu/the-extended-reality-initiative-at-the-university-of-michigan-recap-meetup-13/'>the extended reality initiative at the university of michigan</a> (xr era)
-        - title: <a href='https://xrera.eu/teaching-challenging-concepts-in-molecular-and-cellular-biotechnology-using-vr-recap-meetup-11/'>teaching challenging concepts in molecular and cellular biotechnology using vr</a> (xr era)
 
 
 

@@ -9,4 +9,5 @@ Alterations:
 
 - General changes to the style.
 - Made the layout and typography responsive.
-- Added *previous* and *next* to each project entry.
+- Added *previous* and *next* generated links to each project entry.
+- Added *home* to each page.

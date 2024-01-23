@@ -6,7 +6,7 @@ category: project
 
 A [digital garden](https://maggieappleton.com/garden-history) template where content is seeded, grown, and intertwined. It's built using the static site generator [Jekyll](https://jekyllrb.com/docs/), with [Obsidian](https://obsidian.md/) integrated in the workflow. The sample content has been developed by exploring the subject Information Theory.
 
-<div class="text-above-footnotes-below"><img src="/assets/media/gray_garden.png"></div>
+<div class="text-above-footnotes-below"><img href="https://rebecca-rui-gray-garden.netlify.app/" src="/assets/media/gray_garden.png"></div>
 
 ---
 
