@@ -3,15 +3,16 @@ layout: page
 title: About Me
 ---
 
-Hi, I'm a design technologist based in Norway. My affinity lies with research-based projects that involve churning topics into intelligible content, which can take many forms. Writing, designing, and coding are often a part of that process.
+Hi, I’m a design technologist based in Norway. My affinity lies with research-based projects that involve churning topics into intelligible content and visuals, which can take many forms. Writing, designing, and coding are often a part of that process.
 
 <!-- Writing is an activity through which I think, and designing is how ideas take shape. I see coding not only as a means for creative output but as a form of practical engagement through which theoretical understanding can emerge. -->
 
+
 My experience ranges from client-based work to projects for research purposes and exhibitions. I’m apt to be involved in concept development through to implementation.
 
-In recent years, my research has mainly revolved around the relationship between cognition and media technology. I've developed several prototypes exploring new approaches to how we organize, visualize, and interact with information.
+I'm interested in the relationship between cognition and media technology, having developed several hardware and software prototypes exploring new approaches to how we organize, visualize, and interact with information.
 
-Presently, I work as a design technologist / communications lead at [Bioregion Institute](https://bioregion.institute/) — a design-driven interdisciplinary applied research team developing biodegradable materials and products.
+Presently, I wear many hats at [Bioregion Institute](https://bioregion.institute/) — a design-driven trans-disciplinary applied research team hacking value chains in The Nordic region.
 
 Reach me at hello at rebeccarui dot online.
 
