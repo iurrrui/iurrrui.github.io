@@ -4,41 +4,25 @@
 entries:
   - title: information
     entries:
-      - title: about me
-        url: about-me
-      # - title: timelines
-      #   url: timelines
-      # - title: list of...
-      #   url: list_of
-      # - title: rebrui at tuta dot io
-      - title: about this website
-        url: about-this-website
+        - title: about me
+          url: about-me
+        - title: about this website
+          url: about-this-website
   - title: elsewhere
     entries:
-      - title: linkedin
-        url: https://www.linkedin.com/in/r-rui/
-      - title: github
-        url: https://www.github.com/iurrrui
+        - title: linkedin
+          url: https://www.linkedin.com/in/r-rui
+        - title: github
+          url: https://www.github.com/iurrrui
   - title: playground
     url: playground
     entries:
-      - title: where i play with ideas in <a href='https://www.framer.com/'>framer</a> using <a href='https://legacy.reactjs.org/'>react</a> and <a href='https://d3js.org/'>d3</a>
+        - title: where i play with ideas in <a href='https://www.framer.com/'>framer</a> using <a href='https://legacy.reactjs.org/'>react</a> and <a href='https://d3js.org/'>d3</a>
   - title: projects
     url: project-archive
     post_list:
       limit: 5
       category: project
-      # show_more: true
-      # show_more_text: ...
-      # show_more_url: project-archive.html
-  # - title: weblog
-  #   url: weblog-archive
-  #   post_list:
-  #     limit: 5
-  #     category: weblog
-      # show_more: true
-      # show_more_text: ...
-      # show_more_url: weblog-archive.html
   - title: writings
     url: writings
     entries:
@@ -47,7 +31,6 @@ entries:
         - title: <a href='https://www.leidenlearninginnovation.org/stories/what-is-failure-if-not-the-opposite-of-success/'>what is failure if not the opposite of success?</a> (leiden learning and innovation centre)
         - title: <a href='https://xrera.eu/the-role-of-wearable-haptic-devices-in-xr-meetup-16-recap/'>the role of wearable haptic devices in xr</a> (xr era)
         - title: <a href='https://xrera.eu/virtual-and-augmented-reality-passenger-experiences-recap-meetup-15/'>virtual and augmented reality passenger experiences</a> (xr era)
-
 
 
 
