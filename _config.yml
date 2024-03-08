@@ -10,6 +10,11 @@ favicon: "logo.png"
 # theme: no-style-please # if you are using GitHub Pages, change it to
 # remote_theme: riggraz/no-style-please
 
+webrick:
+  headers:
+    Cache-Control: max-age=31536000
+
+
 theme_config:
   appearance: "light" # can be "light", "dark" or "auto"
   back_home_text: "&#x25C0 rebecca rui" #"&#x25B2" rebecca rui" "&#x25C0 rebecca rui"
