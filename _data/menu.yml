@@ -10,12 +10,12 @@ entries:
           url: about-this-website
   - title: elsewhere
     entries:
-        - title: <a class="lowercase" target="_blank" rel=“noreferrer noopener” href='https://www.linkedin.com/in/r-rui'>linkedin</a>
-        - title: <a class="lowercase" target="_blank" rel=“noreferrer noopener” href='https://www.github.com/iurrrui'>github</a>
+        - title: <a class="lowercase" target="_blank" rel="noreferrer noopener" href='https://www.linkedin.com/in/r-rui'>linkedin</a>
+        - title: <a class="lowercase" target="_blank" rel="noreferrer noopener" href='https://www.github.com/iurrrui'>github</a>
   - title: playground
     url: playground
     entries:
-        - title: where i play with ideas in <a class="lowercase" target="_blank" rel=“noreferrer noopener” href='https://www.framer.com/'>framer</a> using <a class="lowercase" target="_blank" rel=“noreferrer noopener” href='https://legacy.reactjs.org/'>react</a> and <a class="lowercase" target="_blank" rel=“noreferrer noopener” href='https://d3js.org/'>d3</a>
+        - title: where i play with ideas in <a class="lowercase" target="_blank" rel="noreferrer noopener" href='https://www.framer.com/'>framer</a> using <a class="lowercase" target="_blank" rel="noreferrer noopener" href='https://legacy.reactjs.org/'>react</a> and <a class="lowercase" target="_blank" rel="noreferrer noopener" href='https://d3js.org/'>d3</a>
   - title: projects
     url: project-archive
     post_list:
@@ -24,11 +24,11 @@ entries:
   - title: writings
     url: writings
     entries:
-        - title: <a class="lowercase" target="_blank" rel=“noreferrer noopener” href='https://xrera.eu/the-legal-and-ethical-obligations-of-implementing-xr-in-education/'>the legal and ethical obligations of implementing xr in education</a> (xr era)
-        - title: <a class="lowercase" target="_blank" rel=“noreferrer noopener” href='https://www.leidenlearninginnovation.org/stories/incorporating-playful-learning-into-an-anthropology-course/'>incorporating playful learning into an anthropology course</a> (leiden learning and innovation centre)
-        - title: <a class="lowercase" target="_blank" rel=“noreferrer noopener” href='https://www.leidenlearninginnovation.org/stories/what-is-failure-if-not-the-opposite-of-success/'>what is failure if not the opposite of success?</a> (leiden learning and innovation centre)
-        - title: <a class="lowercase" target="_blank" rel=“noreferrer noopener” href='https://xrera.eu/the-role-of-wearable-haptic-devices-in-xr-meetup-16-recap/'>the role of wearable haptic devices in xr</a> (xr era)
-        - title: <a class="lowercase" target="_blank" rel=“noreferrer noopener” href='https://xrera.eu/virtual-and-augmented-reality-passenger-experiences-recap-meetup-15/'>virtual and augmented reality passenger experiences</a> (xr era)
+        - title: <a class="lowercase" target="_blank" rel="noreferrer noopener" href='https://xrera.eu/the-legal-and-ethical-obligations-of-implementing-xr-in-education/'>the legal and ethical obligations of implementing xr in education</a> (xr era)
+        - title: <a class="lowercase" target="_blank" rel="noreferrer noopener" href='https://www.leidenlearninginnovation.org/stories/incorporating-playful-learning-into-an-anthropology-course/'>incorporating playful learning into an anthropology course</a> (leiden learning and innovation centre)
+        - title: <a class="lowercase" target="_blank" rel="noreferrer noopener" href='https://www.leidenlearninginnovation.org/stories/what-is-failure-if-not-the-opposite-of-success/'>what is failure if not the opposite of success?</a> (leiden learning and innovation centre)
+        - title: <a class="lowercase" target="_blank" rel="noreferrer noopener" href='https://xrera.eu/the-role-of-wearable-haptic-devices-in-xr-meetup-16-recap/'>the role of wearable haptic devices in xr</a> (xr era)
+        - title: <a class="lowercase" target="_blank" rel="noreferrer noopener" href='https://xrera.eu/virtual-and-augmented-reality-passenger-experiences-recap-meetup-15/'>virtual and augmented reality passenger experiences</a> (xr era)
 
 
 

@@ -89,11 +89,13 @@ a {
   text-decoration-color: blue;
   text-underline-offset: 0.4rem;
   text-decoration-thickness: 0.01rem;
-
 }
 a:visited {
   color: black;
   text-decoration-color: purple;
+}
+a:hover, a:focus {
+  text-decoration: none;
 }
 
 

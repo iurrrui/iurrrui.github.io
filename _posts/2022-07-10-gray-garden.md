@@ -11,5 +11,5 @@ A [digital garden](https://maggieappleton.com/garden-history) template where con
 ---
 
 <ul class=credits>
-  <li>Explore the website: <a href="https://rebecca-rui-gray-garden.netlify.app/">Gray Garden</a></li>
+  <li>Explore the website: <a target="_blank" rel="noreferrer noopener" href="https://rebecca-rui-gray-garden.netlify.app/">Gray Garden</a></li>
 </ul>
