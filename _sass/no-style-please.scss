@@ -107,6 +107,15 @@ table, th, td {
   padding: 0.4rem;
 }
 
+th {
+  border-left: none;
+  border-right: none;
+}
+
+td:nth-child(1) {
+ font-size: 12px;
+}
+
 code {
   color: white;
   background: black;
