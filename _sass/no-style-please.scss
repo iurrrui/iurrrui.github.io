@@ -90,11 +90,11 @@ a {
   text-underline-offset: 0.4rem;
   text-decoration-thickness: 0.01rem;
 }
-a:visited {
+li a:visited, a:visited {
   color: black;
   text-decoration-color: purple;
 }
-a:hover, a:focus {
+li a:hover, a:hover, li a:focus, a:focus {
   text-decoration: none;
 }
 
