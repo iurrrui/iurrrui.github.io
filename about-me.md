@@ -12,7 +12,7 @@ My experience ranges from client-based work to projects for research purposes an
 
 I'm interested in the relationship between cognition and media technology, having developed several hardware and software prototypes exploring new approaches to how we organize, visualize, and interact with information.
 
-Presently, I wear many hats at [Bioregion Institute](https://bioregion.institute){:target="_blank"} — a design-driven trans-disciplinary applied research team hacking value chains in The Nordic region.
+<!-- Presently, I'm a -->
 
 Reach me at hello at rebeccarui dot online.
 
