@@ -8,11 +8,11 @@ Hi, I’m a design technologist based in Norway. My affinity lies with research-
 <!-- Writing is an activity through which I think, and designing is how ideas take shape. I see coding not only as a means for creative output but as a form of practical engagement through which theoretical understanding can emerge. -->
 
 
-My experience ranges from client-based work to projects for research purposes and exhibitions. I’m apt to be involved in concept development through to implementation.
+<!-- My experience ranges from client-based work to projects for research purposes and exhibitions. I’m apt to be involved in concept development through to implementation. -->
 
 I'm interested in the relationship between cognition and media technology, having developed several hardware and software prototypes exploring new approaches to how we organize, visualize, and interact with information.
 
-<!-- Presently, I'm a -->
+Presently, I'm a user researcher at [Sanoma Learning](https://www.sanomalearning.com/) working on the [itslearning](https://itslearning.com/) Learning Management System.
 
 Reach me at hello at rebeccarui dot online.
 
