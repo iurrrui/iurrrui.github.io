@@ -69,7 +69,7 @@ GEM
       rb-fsevent (~> 0.9, >= 0.9.4)
       rb-inotify (~> 0.9, >= 0.9.7)
     strscan (3.1.0)
-    webrick (1.8.1)
+    webrick (1.8.2)
 
 PLATFORMS
   x86_64-darwin-19
@@ -79,7 +79,7 @@ PLATFORMS
 DEPENDENCIES
   kramdown-parser-gfm
   no-style-please!
-  webrick (~> 1.7)
+  webrick (~> 1.8)
 
 BUNDLED WITH
    2.2.3
