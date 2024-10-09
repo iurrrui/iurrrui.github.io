@@ -3,7 +3,7 @@ layout: page
 title: About This Website
 ---
 
-This website was made with [Jekyll](https://jekyllrb.com/docs/){:target="_blank"} and [GitHub Pages](https://pages.github.com/){:target="_blank"}, based on the [theme by riggraz](https://riggraz.dev/no-style-please/){:target="_blank"} which is inspired by [elly's](http://tilde.town/~elly/){:target="_blank"}.
+This website was made with [Jekyll](https://jekyllrb.com/docs/){:target="_blank"} and [GitHub Pages](https://pages.github.com/){:target="_blank"}, based on the [theme by riggraz](https://riggraz.dev/no-style-please/){:target="_blank"}, inspired by [elly's](http://tilde.town/~elly/){:target="_blank"}.
 
 Alterations:
 

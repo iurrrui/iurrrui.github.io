@@ -12,10 +12,10 @@ entries:
     entries:
         - title: <a class="lowercase" target="_blank" rel="noreferrer noopener" href='https://www.linkedin.com/in/r-rui'>linkedin</a>
         - title: <a class="lowercase" target="_blank" rel="noreferrer noopener" href='https://www.github.com/iurrrui'>github</a>
-  - title: playground
-    url: playground
-    entries:
-        - title: where i play with ideas in <a class="lowercase" target="_blank" rel="noreferrer noopener" href='https://www.framer.com/'>framer</a> using <a class="lowercase" target="_blank" rel="noreferrer noopener" href='https://legacy.reactjs.org/'>react</a> and <a class="lowercase" target="_blank" rel="noreferrer noopener" href='https://d3js.org/'>d3</a>
+  # - title: playground
+  #   url: playground
+  #   entries:
+  #       - title: where i play with ideas in <a class="lowercase" target="_blank" rel="noreferrer noopener" href='https://www.framer.com/'>framer</a> using <a class="lowercase" target="_blank" rel="noreferrer noopener" href='https://legacy.reactjs.org/'>react</a> and <a class="lowercase" target="_blank" rel="noreferrer noopener" href='https://d3js.org/'>d3</a>
   - title: projects
     url: project-archive
     post_list:
