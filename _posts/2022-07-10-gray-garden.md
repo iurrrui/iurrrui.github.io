@@ -11,6 +11,6 @@ A [digital garden](https://maggieappleton.com/garden-history) template where con
 ---
 
 <ul class=credits>
-  <li>Explore the website: <a target="_blank" rel="noreferrer noopener" href="https://rebecca-rui-gray-garden.netlify.app/">Gray Garden</a></li>
+  <li>Explore the website: <a target="_blank" rel="noreferrer noopener" href="https://graygarden.rebeccarui.online">Gray Garden</a></li>
   <li>Get the template: <a target="_blank" rel="noreferrer noopener" href="https://github.com/iurrrui/gray_garden">Github repository</a></li>
 </ul>
