@@ -5,9 +5,9 @@ title: About Me
 
 Hi.
 
-Led by a curiosity about how human cognition and media technology shape each other, I work at the intersection of design, technology, and research. Everything I do is an attempt to turn complexity into clarity.
+Led by a curiosity about how human cognition and media technology shape each other, I work at the intersection of design, technology, and research. Much of what I do is an attempt to turn complexity into clarity.
 
-It often starts with asking the right question, diving into the mess, breaking it down, and reassembling it into something useful — then building and iterating. That could mean designing information systems, creating visual explanations, improving how organizations communicate and operate, or prototyping new ways to organize, present, and interact with information.
+It often starts with asking the right question, diving into the mess, breaking it down, and reassembling it — then building and iterating. That could mean designing information systems, creating visual explanations, running makeshift experiments, improving how organizations communicate and operate, or prototyping new ways to organize, present, and interact with information.
 
 Presently, I'm a User Researcher at [Sanoma Learning](https://www.sanomalearning.com/) working on the [itslearning](https://itslearning.com/) Learning Management System.
 
