@@ -11,13 +11,13 @@ title: Playground
 </video>
 </div>
 
-<!-- ## Forestry: Grid Menu
+## Forestry: Grid Menu
 
 <div class="text-above-none-below">
 <video controls width="100%">
-  <source src="assets/media/forestry_demo.mov" />
+  <source src="assets/media/forestry_demo_video.mov" />
 </video>
-</div> -->
+</div>
 
 ## Our Frames: Smartphone Experiments
 
