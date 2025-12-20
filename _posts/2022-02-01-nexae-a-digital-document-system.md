@@ -15,7 +15,7 @@ Nexae is a digital document system developed by taking new approaches to represe
 ---
 
 <ul class=credits>
-  <li>Developed in the context of the Media Technology master's program at Leiden University.</li>
+  <!-- <li>Developed in the context of the Media Technology master's program at Leiden University.</li> -->
   <li>Visit the weblog for the research project documentation: <a target="_blank" rel="noreferrer noopener" href="https://rebeccarui.online/forking_the_docuverse_weblog/"><i>Forking the Docuverse: A Digital Document System Developed For Mapping and Accessing the Interconnective Structure of Documents Through Interaction</i></a></li>
-  <li>Thanks to Max van Duijn, Edwin van der Heide, and Rafael Wlodarski for project supervision.</li>
+  <li>Thanks to Max van Duijn, Edwin van der Heide, and Rafael Wlodarski for project support.</li>
 </ul>
