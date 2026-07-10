@@ -5,7 +5,7 @@ title: About Me
 
 Hi.
 
-Much of what I do takes what's scattered, tangled, or ambiguous and turns it into clarity and ultimately something usable. It often starts with asking the right question, diving into the mess, breaking a problem down, rebuilding it into the form it needs, and iterating. Drawing on research, design, technology, and communication, the outcome can be a study, workshop, visualization, system, or prototype.
+Much of what I do takes what's scattered, tangled, or ambiguous and turns it into clarity and ultimately something usable. It often starts with asking the right question, diving into the mess, breaking a problem down, rebuilding it into the form it needs, and iterating. Drawing on research, design, technology, and communication, the outcome can be a study, workshop, article, visualization, workflow, prototype, or system.
 
 Presently, I'm a User Researcher at [Sanoma Learning](https://www.sanomalearning.com/) working on the [itslearning](https://itslearning.com/) Learning Management System.
 
